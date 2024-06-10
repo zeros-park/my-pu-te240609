@@ -1,0 +1,22 @@
+{
+  "name": "my-hellojs",
+  "version": "1.0.0",
+  "description": "test for publish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"test !!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeros-park/my-pu-te240609.git"
+  },
+  "keywords": [
+    "my-pu-te"
+  ],
+  "author": "zeros-park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeros-park/my-pu-te240609/issues"
+  },
+  "homepage": "https://github.com/zeros-park/my-pu-te240609#readme"
+}
